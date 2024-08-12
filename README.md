@@ -1,6 +1,2 @@
-# IBPTree
-
-IBPTRee is a C++ implementation of the IBPTree data structure. 
-
-## Installation
+Moved to [https://github.com/ylab-hi/genogrove](https://github.com/ylab-hi/genogrove)
 
